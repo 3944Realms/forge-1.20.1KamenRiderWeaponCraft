@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\BellSoft\LibericaJDK-17\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\f2561\.gradle\caches\modules-2\files-2.1\vazkii.patchouli\Patchouli\1.20.1-81-FORGE\63da7e029b2a6c300921836ce0fe8ccee8924b4c\Patchouli-1.20.1-81-FORGE-api.jar, --output, C:\Users\f2561\.gradle\caches\forge_gradle\deobf_dependencies\vazkii\patchouli\Patchouli\[1.20.1-81-FORGE]_mapped_official_1.20.1\Patchouli-[1.20.1-81-FORGE]_mapped_official_1.20.1-api.jar, --mcp, C:\Users\f2561\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\f2561\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: G:\H\forge-1.20.1KamenRiderWeaponCraft-main\forge-1.20.1KamenRiderWeaponCraft-main\build\_RenameSrg2Mcp_473503072
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\f2561\.gradle\caches\modules-2\files-2.1\vazkii.patchouli\Patchouli\1.20.1-81-FORGE\63da7e029b2a6c300921836ce0fe8ccee8924b4c\Patchouli-1.20.1-81-FORGE-api.jar
+Output: C:\Users\f2561\.gradle\caches\forge_gradle\deobf_dependencies\vazkii\patchouli\Patchouli\[1.20.1-81-FORGE]_mapped_official_1.20.1\Patchouli-[1.20.1-81-FORGE]_mapped_official_1.20.1-api.jar
+MCP:    C:\Users\f2561\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.20.1\mapping-1.20.1-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete
